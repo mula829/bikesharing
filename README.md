@@ -12,4 +12,4 @@
 - Software: Tableau, Jupyter Notebook
 
 ## Summary
-!https://github.com/mula829/bikesharing/blob/main/Images/Bike%20Analysis.PNG
+![alt text](https://github.com/mula829/bikesharing/blob/main/Images/Bike%20Analysis.PNG)
