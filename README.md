@@ -12,4 +12,9 @@
 - Software: Tableau, Jupyter Notebook
 
 ## Summary
+Below are some visual examples of the graphs created for the project.
 ![alt text](https://github.com/mula829/bikesharing/blob/main/Images/Bike%20Analysis.PNG)
+
+We have analyzed that most trips are made by man that are subcribers mostly on Thursaday at 6pm. Below are to charts to support the analyzation.
+![alt text](https://github.com/mula829/bikesharing/blob/main/Images/Trips%20by%20Weekend.PNG)
+![alt text](https://github.com/mula829/bikesharing/blob/main/Images/User%20Trips.PNG)
